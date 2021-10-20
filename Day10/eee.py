@@ -1,0 +1,8 @@
+# coding:GBK
+x = 'ио'
+res = [x]
+print(res)
+y = u'ио'
+print([y])
+print(x)
+print(y)
